@@ -22,6 +22,8 @@
   <a href="https://www.linkedin.com/in/willian-mateus-ramthun-47573b12b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://api.whatsapp.com/send?phone=5547988098682&text=Ol%C3%A1%2C%20te%20encontrei%20atrav%C3%A9s%20do%20GitHub!" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
+  ## Education
+  
 - 📖 **Electrical Engineering**\
 📆 2016 - 2021\
 📍 **Universidade do Contestado - UnC** - Canoinhas, Brazil  
