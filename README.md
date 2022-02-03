@@ -25,6 +25,15 @@
 - 📖 **Electrical Engineering**\
 📆 2016 - 2021\
 📍 **Universidade do Contestado - UnC** - Canoinhas, Brazil  
+  - 📖 **Electrical Engineering**\
+📆 2016 - 2021\
+📍 **Universidade do Contestado - UnC** - Canoinhas, Brazil  
+  - 📖 **Electrical Engineering**\
+📆 2016 - 2021\
+📍 **Universidade do Contestado - UnC** - Canoinhas, Brazil  
+  - 📖 **Electrical Engineering**\
+📆 2016 - 2021\
+📍 **Universidade do Contestado - UnC** - Canoinhas, Brazil  
  
 <!-- ## Experience
 
